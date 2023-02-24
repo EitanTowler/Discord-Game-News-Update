@@ -111,4 +111,5 @@ async def on_message(message):
 
     
 
-client.run('MTAyNjY3Njg3MTEwNDAzNjk0NQ.GSsH_6.E_-VvgTyZoQ7IhF9XOUPHT8VbKWylgi8Q-LJmc')
+client.run()
+#Insert token
